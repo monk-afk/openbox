@@ -189,9 +189,9 @@
 	<keybind key="A-F4">
 		<action name="Close"/>
 	</keybind>
-	<keybind key="A-Escape">
+	<!-- <keybind key="A-Escape">
 		<action name="Close"/>
-	</keybind>
+	</keybind> -->
 
 	<keybind key="A-F2">
 		<action name="Execute">
